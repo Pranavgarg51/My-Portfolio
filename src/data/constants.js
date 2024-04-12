@@ -165,7 +165,7 @@ export const Bio = {
      img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRmEKkpbGF8X77ZkIb0UufmbZddmwdq6eSFgniCPP4g&s",
      school: "St.Charles Inter College , Sardhana Meerut",
       date: "Apr 2019 - Apr 2020",
-      desc: "I completed my class 12  education at St.Charles Inter College.",
+      desc: "I completed Intermediate  education at St.Charles Inter College.",
       degree: "Intermediate(XII)",
     },
     {
@@ -174,7 +174,7 @@ export const Bio = {
       school: "St.Charles Inter College , Sardhana Meerut",
       date: "Apr 2017 - Apr 2018",
       
-      desc: "I completed my class 10 education at St. Charles Inter College.",
+      desc: "I completed High School education at St. Charles Inter College.",
       degree: "High School (X)",
     },
   ];
@@ -187,7 +187,7 @@ export const Bio = {
       description:
         "Developed a Crypto-Tracker web application that allows users to monitoring cryptocurrency prices and trends in real-time with live charts.",
       image:
-        "https://drive.google.com/file/d/1NhrCk8rn1Z3qDj8ZS5q0rxpFUhxMMdbd/view",
+        "https://github.com/Pranavgarg51/My-Portfolio/blob/main/src/assets/CryptoTracker.jpg?raw=true",
       tags: ["React Js", "Node Js", "MaterialUI", "ChartJs", "API's","Vite"],
       github: "https://github.com/Pranavgarg51/Crypto-Tracker",
       webapp: "https://crypto-tracker-dq81.vercel.app/",
@@ -200,7 +200,7 @@ export const Bio = {
       description:
        "Developed a Portfolio website which is showing my skills, projects and education details.",
       image:
-        "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+        "https://github.com/Pranavgarg51/My-Portfolio/blob/main/src/assets/Portfolio.jpg?raw=true",
       tags: [
         "React Js",
         "Node Js",
@@ -209,7 +209,7 @@ export const Bio = {
        "Vite",
       ],
     
-      github: "https://github.com/rishavchanda/Project-Management-App",
+      github: "https://github.com/Pranavgarg51/My-Portfolio",
       webapp: "https://vexa-app.netlify.app/",
     },
     {
@@ -219,7 +219,7 @@ export const Bio = {
       description:
         "Developed a Weather App so stay updated with WeatherNow. Instantly access accurate weather updates for your location. Plan your day with ease, rain or shine.",
       image:
-        "data:image/png;base64,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",
+        "https://github.com/Pranavgarg51/My-Portfolio/blob/main/src/assets/Weather%20App.jpg?raw=true",
       tags: ["React","MaterialUI","API's","Vite"],
     
       github: "https://github.com/Pranavgarg51/Weather-App",
@@ -234,7 +234,7 @@ export const Bio = {
       
         "Developed a Netflix clone using HTML and CSS focusing on replicating the UI, implementing responsive design, user interaction features, and cross-browser compatibility. Demonstrated proficiency in frontend development.",
       image:
-        "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+        "https://github.com/Pranavgarg51/My-Portfolio/blob/main/src/assets/Netflix%20Web%20Clone.jpg?raw=true",
       tags: ["HTML","CSS"],
      
       github: "https://github.com/Pranavgarg51/Netflix-Clone",
