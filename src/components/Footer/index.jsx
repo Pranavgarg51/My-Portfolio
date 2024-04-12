@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
-import GitHubIcon from "@mui/icons-material/Github";
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import InstagramIcon from '@mui/icons-material/Instagram';
+//import GitHubIcon from "@mui/icons-material/Github";
+//import LinkedInIcon from '@mui/icons-material/LinkedIn';
+//import InstagramIcon from '@mui/icons-material/Instagram';
 import { Bio } from '../../data/constants';
 
 
@@ -60,7 +60,7 @@ color: ${({ theme }) => theme.text_primary};
     color: ${({ theme }) => theme.primary};
   }
   @media (max-width: 768px) {
-    font-size: 1rem;
+    font-size: 0.9rem;
   }
 `;
 
@@ -101,9 +101,9 @@ const Footer=() =>{
           <NavLink href="#contact">Contact</NavLink>
         </Nav>
         <SocialMediaIcons>
-        <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-          <SocialMediaIcon href={Bio.github} target="display"><GitHubIcon /></SocialMediaIcon>
+        <SocialMediaIcon href={Bio.insta} target="display"><i class="fa-brands fa-instagram"></i></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.linkedin} target="display"><i class="fa-brands fa-linkedin"></i></SocialMediaIcon>
+          <SocialMediaIcon href={Bio.github} target="display"><i class="fa-brands fa-github"></i></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
           &copy; 2024 Pranav Garg. All rights reserved.
