@@ -210,7 +210,7 @@ export const Bio = {
       ],
     
       github: "https://github.com/Pranavgarg51/My-Portfolio",
-      webapp: "https://vexa-app.netlify.app/",
+      webapp: "https://my-portfolio-five-theta-62.vercel.app/",
     },
     {
       id: 2,
