@@ -8,7 +8,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/pranavgarg51",
     resume:
-    "https://drive.google.com/file/d/1Bn_A9bSDKf3NwYLjOIGXh156WKTULDyd/view?usp=sharing",
+    "https://drive.google.com/file/d/1vGj4f6VbFWUn8EShW40GhKVrQ8ltqJ0E/view?usp=drivesdk",
     linkedin: "https://www.linkedin.com/in/pranav-garg-5b058525b/",
    
     insta: "https://www.instagram.com/pranavgarg51/",
